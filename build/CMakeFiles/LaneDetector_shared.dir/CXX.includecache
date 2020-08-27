@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tang/tang/lane-detector/LaneDetector.cpp
+string
+-
+vector
+-
+opencv2/opencv.hpp
+-
+LaneDetector.h
+/home/tang/tang/lane-detector/LaneDetector.h
+
+/home/tang/tang/lane-detector/LaneDetector.h
+
+/home/tang/tang/lane-detector/build/LaneDetector_shared_autogen/mocs_compilation.cpp
+
